@@ -1,0 +1,24 @@
+Log of A7 Engine 7.53b run at Mon Oct 20 03:09:16 2008
+Slin on Windows NT/2000/XP version 5.1 Build 2600
+Options OS_Water.fx -eq -nx 500 -diag -d startlevel=1 -tS
+
+App F:\3D Gamestudio Stuff\3DGS\Beta\acknex.exe in F:\Dev\Projekte\Water\OS_Shaders\
+MM mixer opened
+DSOUND device opened
+DI interface opened
+Start Window opened
+(c)Conitec . Dieburg . San Diego . www.3dgamestudio.com
+A7 Engine - Commercial Edition V7.53b - Sep 23 2008
+Beta version
+Registered to: Nils Daumann
+Unknown file format: OS_WATER.FX
+Error E355: Startup failure
+Program aborted
+Close level,DLL,objects
+Free input,funcs,panels,defs,syns,views,strings,vars..ok
+Free sounds,bmaps,fonts,hash,defs1,script..ok
+Close dx,multimedia,D3D,engine,physics,nexus..ok
+A7 Engine - Commercial Edition V7.53b - Sep 23 2008
+(c)Conitec . Dieburg . San Diego . www.3dgamestudio.com
+Registered to: Nils Daumann
+Close window

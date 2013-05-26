@@ -1,0 +1,57 @@
+---------------------
+Attaken der Natur:
+------------------
+Regenfaelle		1NP
+Duerren			1NP
+Extreme Schneefaelle	2NP
+Sturm			5NP
+Erdbeben		25NP
+Tsunami			 -  (resultiert aus erdbeben)
+Oelkatastrophe		 -  (resultiert aus erdbeben)
+Abschneidung der
+	Versorgung 	 -  (resultiert aus erdbeben)
+Lavine			25NP (oder aus Erdbeben)
+Vulkanausbruch		50NP
+Hurrikan		50NP
+---------------------
+Besundere Ergeignisse
+der Natur:
+---------------------
+Sonnenfinsterniss	1/100000 pro Tag
+Radioaktiv verseuchte	1/1000000 pro Tag
+    Wolke
+
+
+Gewonnen bei 0% der befoelkerung
+
+-------------------------
+Schuezungen des Menschen:
+-------------------------
+Erdbebensicherung der Hauser
+	St 1		5 Mats/Haus
+	St 2		10 Mats/Haus
+	St 3		20 Mats/Haus
+	St 4		50 Mats/Haus
+Duenen			20 Mats/km
+	St 2		50 Mats/km
+	St 3		75 Mats/km
+Strassen		25 Mats/km
+	St 1		10 Mats/km
+	St 2		25 Mats/km
+	St 3		50 Mats/km
+Staudamm		50 Mats
+Lavaumleitung		100 Mats
+Fluchtwege		20 Mats/Wegmakierung
+Warnsystem		25 Mats
+	International	50 Mats
+	Erdbebenmessung	100 Mats
+	Vulkanmessung	150 Mats
+---------------------
+Besundere Ergeignisse
+des Menschen:
+---------------------
+Internationale Hilfe	Bei unter 1/2 der Befolkerung zu 1/20 pro Tag
+Spendengelder		Bei unter 3/4 der Befolkerung zu 1/10 pro Tag
+Einwander		Bei ueber 100 der befolkerung 0-5 pro Tag (wobei 0 zu 50%)
+
+Gewonnen bei 200% der Befoelkerung

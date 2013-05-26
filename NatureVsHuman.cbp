@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NatureVsHuman" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NatureVsHuman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NatureVsHuman" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/CodeBlocks/SDK/Irrlicht/include" />
+		</Compiler>
+		<Linker>
+			<Add library="Irrlicht" />
+			<Add directory="C:/CodeBlocks/SDK/Irrlicht/lib" />
+		</Linker>
+		<Unit filename="Engine/Camera.cpp" />
+		<Unit filename="Engine/Camera.h" />
+		<Unit filename="Engine/DebugDisplayClass.cpp">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Engine/DebugDisplayClass.h">
+			<Option target="Debug" />
+		</Unit>
+		<Unit filename="Engine/IrrEventsClass.cpp" />
+		<Unit filename="Engine/IrrEventsClass.h" />
+		<Unit filename="Engine/OS_Shaders/OS_PerPixelLit.fx" />
+		<Unit filename="Engine/OS_Shaders/OS_Sky.fx" />
+		<Unit filename="Engine/OS_Shaders/OS_Terrain.fx" />
+		<Unit filename="Engine/OS_Shaders/OS_Terrain.ps" />
+		<Unit filename="Engine/OS_Shaders/OS_Terrain.vs" />
+		<Unit filename="Engine/OS_Shaders/OS_Water.fx" />
+		<Unit filename="Engine/OS_Shaders/OS_Water.ps" />
+		<Unit filename="Engine/OS_Shaders/OS_Water.vs" />
+		<Unit filename="Engine/OS_Shaders/OS_Waterplant.fx" />
+		<Unit filename="Engine/PP_Shaders/PP_DX_Bloom1.fx" />
+		<Unit filename="Engine/PP_Shaders/PP_DX_Bloom2.fx" />
+		<Unit filename="Engine/PP_Shaders/PP_DX_Bloom3.fx" />
+		<Unit filename="Engine/PP_Shaders/PP_DX_Bloom4.fx" />
+		<Unit filename="Engine/PP_Shaders/PP_DX_Invert.fx" />
+		<Unit filename="Engine/Terrain.cpp" />
+		<Unit filename="Engine/Terrain.h" />
+		<Unit filename="Engine/WaterNode.cpp" />
+		<Unit filename="Engine/WaterNode.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion>
+				<search_path add="../irrlicht-engine/include" />
+			</code_completion>
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
